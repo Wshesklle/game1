@@ -1,7 +1,12 @@
 {
-    "chocolate": {
+    "Wshesklle": {
         "archive": {},
         "platform_prop": {},
         "role_id": 1
+    },
+    "chocolate": {
+        "archive": {},
+        "platform_prop": {},
+        "role_id": -1
     }
 }

@@ -86,5 +86,29 @@
    "BOSS", 
    4
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "\u7bad\u5854", 
+   2
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
+   "\u5efa\u9020\u8005", 
+   1
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   4, 
+   "\u5c45\u6c11\u5efa\u7b51", 
+   2
+  ]
  }
 ]

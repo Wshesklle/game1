@@ -1,5 +1,8 @@
 {
     "variable_dict": {
+        "FLOAT": {
+            "\u671d\u5411": 0.0
+        }, 
         "INTEGER": {
             "GLOBAL_BAG_MAX_NUM": 0
         }, 
@@ -23,10 +26,18 @@
                 "GLOBAL_BAG_MAX_NUM", 
                 "GLOBAL_BAG_MAX_NUM"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u671d\u5411", 
+                "\u671d\u5411"
+            ]
         }
     ], 
     "variable_length_dict": {
         "GLOBAL_BAG_MAX_NUM": 0, 
-        "UI_Manager": 0
+        "UI_Manager": 0, 
+        "\u671d\u5411": 0
     }
 }
