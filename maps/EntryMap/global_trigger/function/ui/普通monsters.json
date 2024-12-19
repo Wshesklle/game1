@@ -1,0 +1,164 @@
+{
+    "action": [
+        {
+            "action_type": "RUN_COUNT_TIMER_NO_SAVE", 
+            "args_list": [
+                {
+                    "arg_type": 100000, 
+                    "args_list": [
+                        0.3
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100002, 
+                    "args_list": [
+                        4
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        true
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100022, 
+                    "args_list": [
+                        {
+                            "action_type": "CREATE_UNIT_NEW", 
+                            "args_list": [
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UNIT_NAME", 
+                                                "选定怪物种类", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 2
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100009, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "RECTANGLE", 
+                                                        "在指定区域生成", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 7
+                                        }
+                                    ], 
+                                    "sub_type": "RECTANGLE_RANDOM_POINT"
+                                }, 
+                                {
+                                    "arg_type": 100225, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                180.0
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_ANGLE_BY_FLOAT"
+                                }, 
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [
+                                        31
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "bp": false, 
+                            "element_id": 2028957751000004, 
+                            "enable": true, 
+                            "op_arg": [
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                false
+                            ]
+                        }
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 2028957751000025, 
+            "enable": true, 
+            "local_var": {
+                "__tuple__": true, 
+                "items": [
+                    {}, 
+                    {}
+                ]
+            }
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "函数描述{选定怪物种类}{在指定区域生成}", 
+    "func_id": "83e1cf63bb8011ef9b82fd0b9f05b9f7", 
+    "func_name": "普通monsters", 
+    "func_param_list": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "选定怪物种类", 
+                true
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "在指定区域生成", 
+                true
+            ]
+        }
+    ], 
+    "group_id": "ZJoWsLt+Ee+OIf0LnwW59w", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 2028957751, 
+    "trigger_name": "普通monsters", 
+    "valid": true, 
+    "var_data": [
+        {
+            "RECTANGLE": {
+                "在指定区域生成": 0
+            }, 
+            "UNIT_NAME": {
+                "选定怪物种类": 0
+            }
+        }, 
+        {
+            "在指定区域生成": 0, 
+            "选定怪物种类": 0
+        }, 
+        [
+            "选定怪物种类", 
+            "在指定区域生成"
+        ]
+    ]
+}

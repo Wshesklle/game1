@@ -1,0 +1,21 @@
+{
+    "create_stamp": "202306120000", 
+    "editor_stamp": "202306120000", 
+    "encrypt_sections": [
+        "archive_data", 
+        "global_archive_data", 
+        "archive_table_data"
+    ], 
+    "entry_map": {
+        "id": 133537817913870497141735021643756321271, 
+        "name": "EntryMap"
+    }, 
+    "phy_mode": "2.5d", 
+    "project_id": 132910898378085613261638111186859178487, 
+    "project_name": "\u521d\u7a3f", 
+    "steam_lobby_map": {
+        "id": "", 
+        "name": ""
+    }, 
+    "version": 11
+}
