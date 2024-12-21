@@ -41,7 +41,7 @@
                         {
                             "arg_type": 100116, 
                             "args_list": [
-                                134254745
+                                134226341
                             ], 
                             "sub_type": 1
                         }, 
@@ -112,7 +112,7 @@
                     "event_type": "BEFORE_UNIT_DIE"
                 }
             ], 
-            "group_id": 134249377, 
+            "group_id": 134275807, 
             "p_trigger_id": null, 
             "trigger_id": 677740545, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
@@ -392,7 +392,7 @@
                     "event_type": "UNIT_BORN"
                 }
             ], 
-            "group_id": 134249377, 
+            "group_id": 134275807, 
             "p_trigger_id": null, 
             "trigger_id": 1390497794, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
@@ -436,8 +436,8 @@
                     ]
                 }
             ], 
-            "key": 134249377, 
-            "name": "134249377"
+            "key": 134275807, 
+            "name": "134275807"
         }
     ], 
     "trigger_version": "1.2", 

@@ -98,7 +98,7 @@
                     "event_type": "BEFORE_UNIT_DIE"
                 }
             ], 
-            "group_id": 134254745, 
+            "group_id": 134226341, 
             "p_trigger_id": null, 
             "trigger_id": 1883971585, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
@@ -122,8 +122,8 @@
                     ]
                 }
             ], 
-            "key": 134254745, 
-            "name": "134254745"
+            "key": 134226341, 
+            "name": "134226341"
         }
     ], 
     "trigger_version": "1.2", 

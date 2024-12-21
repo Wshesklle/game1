@@ -154,6 +154,24 @@
                 "mat_id": 2, 
                 "name": "\u5ca9\u6d46", 
                 "original": true
+            }, 
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.050980392156862744, 
+                        0.12156862745098039, 
+                        0.33725490196078434, 
+                        0.0
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 90.0, 
+                "flow_perturbation": 0.5, 
+                "flow_speed": 0.3, 
+                "mat_id": 1, 
+                "name": "\u65b0\u589e\u6d41\u4f53", 
+                "original": false
             }
         ]
     }, 

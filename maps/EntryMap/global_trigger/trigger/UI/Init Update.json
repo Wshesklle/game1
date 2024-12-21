@@ -1057,7 +1057,7 @@
                                 }
                             ], 
                             "bp": false, 
-                            "element_id": 786112514578173, 
+                            "element_id": 786112514623486, 
                             "enable": true
                         }, 
                         {
@@ -1188,7 +1188,7 @@
                                 }
                             ], 
                             "bp": false, 
-                            "element_id": 786112514578171, 
+                            "element_id": 786112514623487, 
                             "enable": true
                         }, 
                         {
@@ -1235,7 +1235,7 @@
                                                 }
                                             ], 
                                             "condition_type": "FLOAT_COMPARE", 
-                                            "element_id": 786112514578194, 
+                                            "element_id": 786112514623488, 
                                             "enable": true
                                         }
                                     ], 
@@ -1310,7 +1310,7 @@
                                                 }
                                             ], 
                                             "bp": false, 
-                                            "element_id": 786112514578196, 
+                                            "element_id": 786112514623489, 
                                             "enable": true
                                         }, 
                                         {
@@ -1428,7 +1428,7 @@
                                                                 }
                                                             ], 
                                                             "bp": false, 
-                                                            "element_id": 786112514578216, 
+                                                            "element_id": 786112514623490, 
                                                             "enable": true
                                                         }
                                                     ], 
@@ -1436,7 +1436,7 @@
                                                 }
                                             ], 
                                             "bp": false, 
-                                            "element_id": 786112514578199, 
+                                            "element_id": 786112514623491, 
                                             "enable": true
                                         }
                                     ], 
@@ -1554,7 +1554,7 @@
                                                                 }
                                                             ], 
                                                             "bp": false, 
-                                                            "element_id": 786112514578221, 
+                                                            "element_id": 786112514623492, 
                                                             "enable": true
                                                         }
                                                     ], 
@@ -1562,7 +1562,7 @@
                                                 }
                                             ], 
                                             "bp": false, 
-                                            "element_id": 786112514578218, 
+                                            "element_id": 786112514623493, 
                                             "enable": true
                                         }
                                     ], 
@@ -1570,7 +1570,7 @@
                                 }
                             ], 
                             "bp": false, 
-                            "element_id": 786112514578188, 
+                            "element_id": 786112514623494, 
                             "enable": true, 
                             "fake_op": [
                                 2
@@ -1617,7 +1617,7 @@
                                                 }
                                             ], 
                                             "condition_type": "FLOAT_COMPARE", 
-                                            "element_id": 786112514578240, 
+                                            "element_id": 786112514623495, 
                                             "enable": true
                                         }, 
                                         {
@@ -1658,7 +1658,7 @@
                                                 }
                                             ], 
                                             "condition_type": "FLOAT_COMPARE", 
-                                            "element_id": 786112514578238, 
+                                            "element_id": 786112514623496, 
                                             "enable": true
                                         }
                                     ], 
@@ -1702,7 +1702,29 @@
                                                                 }
                                                             ], 
                                                             "bp": false, 
-                                                            "element_id": 786112514578248, 
+                                                            "element_id": 786112514623497, 
+                                                            "enable": true
+                                                        }, 
+                                                        {
+                                                            "action_type": "BROADCAST_MSG", 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [
+                                                                        "1"
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [
+                                                                        "进入白天"
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "bp": false, 
+                                                            "element_id": 786112514623498, 
                                                             "enable": true
                                                         }
                                                     ], 
@@ -1710,7 +1732,7 @@
                                                 }
                                             ], 
                                             "bp": false, 
-                                            "element_id": 786112514578250, 
+                                            "element_id": 786112514623499, 
                                             "enable": true
                                         }
                                     ], 
@@ -1754,7 +1776,29 @@
                                                                 }
                                                             ], 
                                                             "bp": false, 
-                                                            "element_id": 786112514578268, 
+                                                            "element_id": 786112514623500, 
+                                                            "enable": true
+                                                        }, 
+                                                        {
+                                                            "action_type": "BROADCAST_MSG", 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [
+                                                                        "2"
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [
+                                                                        "进入夜晚"
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "bp": false, 
+                                                            "element_id": 786112514623501, 
                                                             "enable": true
                                                         }
                                                     ], 
@@ -1762,7 +1806,7 @@
                                                 }
                                             ], 
                                             "bp": false, 
-                                            "element_id": 786112514578265, 
+                                            "element_id": 786112514623502, 
                                             "enable": true
                                         }
                                     ], 
@@ -1770,7 +1814,7 @@
                                 }
                             ], 
                             "bp": false, 
-                            "element_id": 786112514578232, 
+                            "element_id": 786112514623503, 
                             "enable": true, 
                             "fake_op": [
                                 2
